@@ -1,87 +1,16 @@
-# About Me
-Cybersecurity Engineer focused on SOC operations, detection engineering, and self-hosted infrastructure.
+<h1 align="center">Hi 👋, I'm Ayman Wadi</h1>
+<h3 align="center">A Security Engineer based in Morocco</h3>
 
-I design and operate secure, scalable environments with a strong emphasis on automation, observability, and threat detection.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zvckster&label=Profile%20views&color=0e75b6&style=flat" alt="zvckster" /> </p>
 
-## Cybersecurity & SOC
-- SOC Analyst / Threat Hunter / Detection Engineer
-- Advanced Wazuh SIEM engineering (custom decoders, rules, pipelines)
-- Log ingestion and normalization (FortiGate, Sophos, Office365, Linux, Windows)
-- Threat intelligence enrichment (MISP, custom Python integrations)
-- Detection aligned with MITRE ATT&CK and compliance frameworks (ISO 27001, PCI DSS)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-## DevOps & Homelab (zvckster.com)
-- Self-hosted infrastructure using Docker Compose with segmented networks
-- Reverse proxy: Traefik
-- Secure service stack:
-  - Vaultwarden, Vikunja, Mailcow, Overleaf, Outline, Memos
-  - Uptime Kuma, Netdata, Dozzle, ntfy
-- VPN architecture (WireGuard / wg-easy)
-- CI/CD pipelines (GitLab Runner, offline deployments)
-- Automation workflows (n8n, Python, Bash)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-## Engineering Approach
-- Automation-first mindset
-- Security-driven architecture
-- Focus on reproducibility and operational efficiency
-- Building internal tooling for SOC optimization (deduplication, enrichment, alerting)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zvckster&show_icons=true&locale=en" alt="zvckster" /></p>
 
----
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zvckster&" alt="zvckster" /></p>
 
-## Socials
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discordapp.com/users/1375898423135567922) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aymwadi) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayman-wadi) 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@zvckster)
-
----
-
-## Tech Stack
-
-### Core
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
-![Bash](https://img.shields.io/badge/bash-%2301211C.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-### Security & SIEM
-![Wazuh](https://img.shields.io/badge/Wazuh-005571?style=for-the-badge)
-![OpenSearch](https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge)
-![MITRE ATT&CK](https://img.shields.io/badge/MITRE-ATT%26CK-red?style=for-the-badge)
-
-### DevOps & Infrastructure
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=for-the-badge)
-![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-
-### Cloud & Networking
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
-![WireGuard](https://img.shields.io/badge/WireGuard-88171A?style=for-the-badge)
-
-### Data
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-
----
-
-## GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Zvckster&theme=merko&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Zvckster&theme=merko)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Zvckster&theme=merko&layout=compact)
-
----
-
-## Current Focus
-- Scaling Wazuh clusters and reducing log noise in high-volume environments
-- Building automated SOC pipelines (GitLab CI, Python, n8n)
-- Hardening self-hosted infrastructure (segmentation, zero-trust)
-- Improving detection quality and alert correlation
-
----
-
-## Principles
-- Automate everything
-- Monitor what matters
-- Secure by design
